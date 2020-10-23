@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.cover {
+    background: url("https://cdn.pixabay.com/photo/2020/10/15/15/56/bald-eagle-5657154_1280.jpg") no-repeat center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: hsla(0, 0%, 100%, .7);
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    display: table;
+}

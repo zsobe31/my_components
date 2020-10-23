@@ -1,0 +1,92 @@
+body {
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 50%;
+    margin: 100px auto;
+    background-color: rgb(235, 234, 229);
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 2rem;
+    padding-bottom: 25px;
+}
+
+.nav-buttons {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+#def {
+    border-color: #ccc;
+}
+
+#def:hover {
+    background-color: rgb(177, 176, 172);
+}
+
+#pri {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#pri:hover {
+    background-color: rgb(77, 114, 184);
+    color: white;
+}
+
+#suc {
+    background-color: rgb(50, 205, 63);
+    color: white;
+}
+
+#suc:hover {
+    background-color: rgb(34, 138, 42);
+    color: white;
+}
+
+#inf {
+    background-color: rgb(151, 201, 235);
+    color: white;
+}
+
+#inf:hover {
+    background-color: rgb(84, 137, 172);
+    color: white;
+}
+
+#war {
+    background-color: rgb(195, 205, 50);
+    color: white;
+}
+
+#war:hover {
+    background-color: rgb(157, 167, 17);
+    color: white;
+}
+
+#dan {
+    background-color: rgb(219, 77, 42);
+    color: white;
+}
+
+#dan:hover {
+    background-color: rgb(158, 48, 21);
+    color: white;
+}

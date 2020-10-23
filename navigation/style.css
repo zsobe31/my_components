@@ -1,0 +1,46 @@
+/*  General setyles */
+
+* {
+    box-sizing: border-box;
+}
+
+.nav-1 {
+    font-size: 0;
+}
+
+.nav-1 ul {
+    background-color: #eee;
+    text-align: center;
+}
+
+.nav-1 li {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.4rem;
+    line-height: 3rem;
+    height: 3rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.nav-1 a {
+    text-decoration: none;
+    color: #C74F78;
+    display: block;
+}
+
+.nav-1 a:hover {
+    background-color: #fff;
+    transition: background-color .3s ease-in-out;
+}
+
+.nav-1 a.active {
+    background-color: #c74f78;
+    color: #eee;
+}
+
+@media (min-width: 600px) {
+    .nav-1 li {
+        display: inline-block;
+        border-bottom: none;
+        width: 7.5rem;
+    }
+}
