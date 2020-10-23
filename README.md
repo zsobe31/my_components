@@ -1,4 +1,4 @@
-﻿# my_components
+# my_components
 codeberry work
 
 -	blog-header
@@ -10,4 +10,4 @@ codeberry work
 -	navigation
   
 
-
+/Users/zsobe31/Desktop/Képernyőfotó 2020-10-23 - 15.19.47.png
